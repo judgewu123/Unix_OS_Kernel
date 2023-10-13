@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iterator": "c",
+        "types.h": "c",
+        "fs.h": "c",
+        "user.h": "c"
+    }
+}

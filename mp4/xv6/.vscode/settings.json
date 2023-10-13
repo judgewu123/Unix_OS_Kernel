@@ -1,0 +1,19 @@
+{
+                "files.associations": {
+                                "__config": "c",
+                                "random": "c",
+                                "syscall.h": "c",
+                                "defs.h": "c",
+                                "param.h": "c",
+                                "user.h": "c",
+                                "riscv.h": "c",
+                                "types.h": "c",
+                                "stat.h": "c",
+                                "proc.h": "c",
+                                "spinlock.h": "c",
+                                "fs.h": "c",
+                                "sleeplock.h": "c",
+                                "file.h": "c",
+                                "fcntl.h": "c"
+                }
+}

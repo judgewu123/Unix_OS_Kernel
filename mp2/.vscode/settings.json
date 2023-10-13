@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "param.h": "c",
+        "memlayout.h": "c",
+        "spinlock.h": "c",
+        "riscv.h": "c",
+        "defs.h": "c",
+        "proc.h": "c",
+        "elf.h": "c",
+        "vector": "c",
+        "*.tcc": "c",
+        "istream": "c",
+        "mutex": "c",
+        "ostream": "c",
+        "stop_token": "c",
+        "typeinfo": "c",
+        "fs.h": "c",
+        "bit": "c",
+        "cmath": "c",
+        "complex": "c",
+        "random": "c"
+    }
+}
